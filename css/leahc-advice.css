@@ -1,0 +1,33 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: papayawhip;
+}
+header h1 {
+    font-size: 36px;
+    color: mediumaquamarine;
+}
+header h1 span {
+    color: palevioletred;
+    text-decoration: underline;
+}
+h4 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: palevioletred;
+}
+.advice {
+    width: 1200px;
+}
+.half-width {
+    width: 600px;
+    float: left;
+}
+.half-width h4, p {
+    padding-left: 20px;
+}
+footer {
+    clear: both;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+}
